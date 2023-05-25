@@ -9,5 +9,6 @@
         public string Description { get; set; }
         public string Image { get; set; }
         public string ImageUrl { get; set; }
+        public string ImageType { get; set; }
     }
 }
