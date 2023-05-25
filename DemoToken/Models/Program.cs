@@ -3,7 +3,7 @@
     public class Program
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Desciption { get; set; }
+        public string NameProgram { get; set; }
+        public string DesciptionProgram { get; set; }
     }
 }
